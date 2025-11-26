@@ -20,12 +20,12 @@ Cursando Análise e Desenvolvimento de Sistemas.
 
 <div>
   <a>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serya012&layout=compact&langs_count=15&hide=scss&theme=cobalt" alt="Top Langs" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seryaa12&layout=compact&langs_count=15&hide=scss&theme=cobalt" alt="Top Langs" />
   </a>
 </div>
 <div>
   <a>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=serya012&show_icons=true&theme=cobalt" alt="GitHub Stats" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=seryaa12&show_icons=true&theme=cobalt" alt="GitHub Stats" />
   </a>
 </div>
 
@@ -34,9 +34,9 @@ Cursando Análise e Desenvolvimento de Sistemas.
 ## 🐍 Minhas Contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/serya012/serya012/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/serya012/serya012/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://github.com/serya012/serya012/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/seryaa12/seryaa12/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/seryaa12/seryaa12/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://github.com/seryaa12/seryaa12/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ## 🤔 Curiosidade 
