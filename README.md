@@ -9,7 +9,7 @@ Antes da área, trabalhei com controle de frotas e almoxarifado. Lá aprendi pre
 ## 👨‍💻 Habilidades
 
 - **Linguagens:**
--  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
+-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 -  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - **Banco de Dados:**
 -  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -46,3 +46,7 @@ Antes da área, trabalhei com controle de frotas e almoxarifado. Lá aprendi pre
 ##  😜 Considerações finais 
 
 Já que você chegou até aqui, convido você a conhecer meu portfólio e ver um pouco do que eu fiz. Se quiser acompanhar meu trabalho, siga meu Instagram e conecte-se comigo no LinkedIn; os links estão no meu perfil. Caso precise de serviços de informática, confira meu catálogo no WhatsApp. Obrigado pela visita. Se estiver interessado em oportunidades, contribuições ou serviços, entre em contato comigo.
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/NFcp7tHycPsAAAAd/chill-cow-studying.gif" alt="Chill Cow Studying GIF" width="800">
+</p>
