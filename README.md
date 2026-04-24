@@ -1,6 +1,10 @@
 # 🌎 Olá, Mundo!
 
-Cursando Análise e Desenvolvimento de Sistemas.
+Sempre gostei de tecnologia; desde moleque, já dava sinais. O pontapé oficial foi em 2018, quando fui configurar um bot no Discord, na base da curiosidade (e de muitos tutoriais no YouTube). Ali me apaixonei pela tecnologia em geral.
+
+Fiz técnico em Informática pelo Senac, melhor decisão da minha vida. Hoje curso Análise e Desenvolvimento de Sistemas e não tenho plano B: é TI ou TI.
+
+Antes da área, trabalhei com controle de frotas e almoxarifado. Lá aprendi precisão, organização e que meu lugar é aqui, codando.
 
 ## 👨‍💻 Habilidades
 
@@ -39,8 +43,6 @@ Cursando Análise e Desenvolvimento de Sistemas.
   <img alt="github contribution grid snake animation" src="https://github.com/seryaa12/seryaa12/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
-## 🤔 Curiosidade 
+##  😜 Considerações finais 
 
-Meu primeiro contato com a programação foi meio inesperado, quando me pediram para configurar alguns bots de um servidor no Discord. Foi um momento importante pra mim, porque ali tive meu primeiro contato com a programação, mesmo não sabendo o que era. No começo, foi bem difícil de entender como tudo aquilo funcionava, mas isso não me fez parar, esse desafio foi só mais uma etapa no mundo da programação. Logo percebi que cada obstáculo era uma chance de aprender e crescer. Decidi me dedicar aos estudos, buscando conhecimento em comunidades online e sempre procurando me aprimorar. Foi aí que descobri qual é a minha área: a Informática e a Programação, onde encontrei minha paixão e motivação para ter uma vida que sempre quis **</>**.
-
-Obrigado por conferir meu perfil! Sinta-se à vontade para entrar em contato pelo Instagram, LinkedIn ou explorar meus projetos, fique à vontade. Estou sempre aberto a novas oportunidades e contribuições😜!
+Já que você chegou até aqui, convido você a conhecer meu portfólio e ver um pouco do que eu fiz. Se quiser acompanhar meu trabalho, siga meu Instagram e conecte-se comigo no LinkedIn; os links estão no meu perfil. Caso precise de serviços de informática, confira meu catálogo no WhatsApp. Obrigado pela visita. Se estiver interessado em oportunidades, contribuições ou serviços, entre em contato comigo.
