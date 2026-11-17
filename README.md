@@ -1,10 +1,5 @@
 # 🌎 Olá, Mundo!
 
-Sempre gostei de tecnologia; desde moleque, já dava sinais. O pontapé oficial foi em 2018, quando fui configurar um bot no Discord, na base da curiosidade (e de muitos tutoriais no YouTube). Ali me apaixonei pela tecnologia em geral.
-
-Fiz técnico em Informática pelo Senac, melhor decisão da minha vida. Hoje curso Análise e Desenvolvimento de Sistemas e não tenho plano B: é TI ou TI.
-
-Antes da área, trabalhei com controle de frotas e almoxarifado. Lá aprendi precisão, organização e que meu lugar é aqui, codando.
 
 ## 👨‍💻 Habilidades
 
